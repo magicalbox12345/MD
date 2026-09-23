@@ -1,0 +1,20 @@
+Terms of Service
+Last updated: [23.9.2026]
+
+These Terms of Service govern the use Magical boxed, a personal automation tool operated by IAM.
+
+1. Purpose
+The App automatically generates short video content based on public AI/tech news sources and publishes it to the operator's own TikTok account, after manual review and approval by the operator.
+
+2. Use
+This App is used solely by its operator for managing their own TikTok content. It does not offer public access, accounts, or services to third parties.
+
+3. Content
+All published content is reviewed and approved by a humnám before publishing. The operator is responsible for the content published through the App.
+
+4. No Warranty
+The App is provided "as is" without warranties of any kind. The operator is not liable for any service interruptions, API changes, or third-party platform issues (including TikTok).
+
+5. Changes
+These Terms may be updated at any time. Continued use of the App implies acceptance of the current Terms.
+
